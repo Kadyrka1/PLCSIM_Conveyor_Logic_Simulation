@@ -16,3 +16,4 @@ The project will be extended with HMI integration, timers, and 3D visualization 
 
 
 <br><br/>
+<img width="1920" height="1080" alt="Screenshot 2026-05-16 191009" src="https://github.com/user-attachments/assets/f5672dc8-b98c-4a8e-acdf-186cddd26c53" />
