@@ -16,4 +16,3 @@ The project will be extended with HMI integration, timers, and 3D visualization 
 
 
 <br><br/>
-A PLC-based conveyor system simulation developed in TIA Portal using S7-PLCSIM. The setup models basic conveyor logic where a sensor detects boxes and controls the conveyor motor accordingly. Integrated with a 3D simulation environment, it visualizes real-time movement of objects on the belt, demonstrating fundamental automation concepts like sensor-actuator interaction and PLC program execution.
